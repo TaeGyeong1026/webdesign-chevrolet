@@ -1,3 +1,4 @@
+// some change feat/
 $(document).ready(function () {
   var ww = $(window).width();
   var wh = $(window).height();
